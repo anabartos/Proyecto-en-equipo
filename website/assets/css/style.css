@@ -1,23 +1,23 @@
 body{
     background: #BDBDBD;
 }
-#first-heading{
+/* #first-heading{
     width: 100%;
     display:flex;
     padding: 10px
-}
-#text{
-    align-self: center;
-}
-#image{
-    align-self: center;
+} */
+/* #text{ */
+    /* align-self: center; */
+/* } */
+/* #image{ */
+    /* align-self: center;
     display:flex;
-    justify-content: end;
-}
+    justify-content: end; */
+/* } */
 
-img{
+/* img{ */
 
-    width: 50%;
-    height: 50%;
+    /* width: 50%;
+    height: 50%; */
 
-}
+/* } */
